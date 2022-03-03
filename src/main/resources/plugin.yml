@@ -1,0 +1,12 @@
+name: duels-plugin
+version: 1.0.0
+main: com.github.vscyther.duelsplugin.DuelsPlugin
+api-version: 1.17
+authors: [ vScyther ]
+website: https://github.com/vscyther
+commands:
+  duel:
+    aliases:
+      - duels
+      - 1v1
+      - x1

@@ -1,0 +1,28 @@
+kit:
+  name: "example"
+  armor-content:
+    helmet:
+      material: "IRON_HELMET"
+      durability: 0
+      amount: 1
+    chestplate:
+      material: "IRON_CHESTPLATE"
+      durability: 0
+      amount: 1
+    # leggings:
+    #   material: "IRON_LEGGINGS"
+    #   durability: 0
+    #   amount: 1
+    boots:
+      material: "IRON_BOOTS"
+      durability: 0
+      amount: 1
+  inventory-content:
+    sword:
+      material: "IRON_SWORD"
+      durability: 0
+      amount: 1
+    golden-apple:
+      material: "GOLDEN_APPLE"
+      durability: 1
+      amount: 16
